@@ -52,11 +52,10 @@
       </el-menu>
     </div>
   </el-scrollbar>
-  <div class="github">
-    <a href="https://mail.bodu.tk">
-      <Icon icon="codicon:github-inverted" width="28" height="28" />
-    </a>
-  </div>
+
+
+
+  
 </template>
 
 <script setup>
